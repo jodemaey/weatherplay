@@ -1,0 +1,19 @@
+name: weatherplay
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - ipython
+  - numpy
+  - scipy
+  - jupyter
+  - matplotlib
+  - xarray
+  - requests-cache
+  - pandas
+  - pip:
+    - openmeteo-requests
+    - retry-requests
+    - earthkit
+
