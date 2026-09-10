@@ -1,3 +1,6 @@
 .cache.sqlite
 .ipynb_checkpoints
+*.nc
+*.zarr
+*.mp4
 

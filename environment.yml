@@ -16,4 +16,5 @@ dependencies:
     - openmeteo-requests
     - retry-requests
     - earthkit
+    - dynamical-catalog
 
